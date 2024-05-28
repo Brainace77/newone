@@ -4,5 +4,5 @@ resource "aws_instance" "RM" {
   instance_type = "t2.micro"
   #defrgt
   tags = {
-    Name = "terraform-ec2"
+    Name = "terraform"
   }
