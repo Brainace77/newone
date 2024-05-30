@@ -7,3 +7,4 @@ resource "aws_instance" "RM" {
     Name = "terraform"
   }
 }
+# this is a sample EC2 instance creation code
