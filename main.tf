@@ -1,5 +1,5 @@
 resource "aws_instance" "RM" {
-  ami = "ami-0cc9838aa7ab1dce7"
+  ami = "ami-00fa32593b478ad6e"
   key_name = "terra-key1"
   instance_type = "t2.micro"
   #defrgt
